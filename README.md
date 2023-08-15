@@ -22,6 +22,7 @@ To capture more complex relationships and nonlinear patterns, a deep neural netw
 The dataset was randomly split into training and testing sets to evaluate the performance of both the linear regression and DNN models. The models were trained using various techniques such as cross-validation, regularization, and hyperparameter tuning to optimize their performance. Below Evaluation metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared can be used to compare and assess the models' predictive capabilities.
 
 | Metric | Linear Regression | DNN |
+| ------ | ----------------- | --- |
 | MAE (0 is best) | 5.57 | 5.32 |
 | RMSE (0 is best) | 8.11 | 7.77 |
 | R-squared (1 is best) | 0.63 | 0.66 |
